@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    font-size: 18px;
+}
+
+span {
+    color: white;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
